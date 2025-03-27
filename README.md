@@ -38,7 +38,7 @@ Software developer passionate about creating innovative solutions. I enjoy build
 
 ### [Cycle Safe](https://github.com/yamajid/cycle_safe)
 - Real-time cycle tracking application
-- Built with React, TypeScript, and Tailwind CSS
+- Built with React, TypeScript, Tailwind CSS for frontend and Django rest framework for backend
 - Features route optimization and safety features
 
 
@@ -46,15 +46,12 @@ Software developer passionate about creating innovative solutions. I enjoy build
 ## 📫 How to Reach Me
 - 📧 Email: yamajid13@outlook.com
 
-## 🎯 Goals for 2024
-- [ ] Master TypeScript and Next.js
+## 🎯 Goals for 2025
+- [ ] Master TypeScript and Django to be a full stack developer
 - [ ] Contribute to open source projects
 - [ ] Build and launch innovative applications
 - [ ] Improve documentation skills
 
-## ⚡ Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yamajid&color=blueviolet" alt="Profile views" />
