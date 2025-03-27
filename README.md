@@ -21,16 +21,6 @@ Software developer passionate about creating innovative solutions. I enjoy build
 }
 ```
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yamajid&show_icons=true&theme=dark" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yamajid&theme=dark" alt="GitHub Streak" />
-</div>
-
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yamajid/)
 
