@@ -15,9 +15,9 @@ Software developer passionate about creating innovative solutions. I enjoy build
 {
   "languages": ["JavaScript", "TypeScript", "Python"],
   "frontend": ["React", "Next.js", "Tailwind CSS"],
-  "backend": ["Node.js", "Express"],
-  "databases": ["MongoDB", "PostgreSQL"],
-  "tools": ["Git", "Docker", "VS Code"]
+  "backend": ["python", "Django & Django rest framework"],
+  "databases": ["sqlite3", "PostgreSQL"],
+  "tools": ["Git", "Docker", "Docker Compose", "VS Code"]
 }
 ```
 
@@ -32,8 +32,7 @@ Software developer passionate about creating innovative solutions. I enjoy build
 </div>
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yamajid)
 
 ## 📈 Latest Projects
 
@@ -42,14 +41,10 @@ Software developer passionate about creating innovative solutions. I enjoy build
 - Built with React, TypeScript, and Tailwind CSS
 - Features route optimization and safety features
 
-### [Project 2 Name]
-- Brief description
-- Key technologies used
-- Main features
+
 
 ## 📫 How to Reach Me
-- 📧 Email: your.email@example.com
-- 💼 Portfolio: your-portfolio-url
+- 📧 Email: yamajid13@outlook.com
 
 ## 🎯 Goals for 2024
 - [ ] Master TypeScript and Next.js
