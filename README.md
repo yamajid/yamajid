@@ -13,7 +13,7 @@ Software developer passionate about creating innovative solutions. I enjoy build
 ## 🛠️ Tech Stack
 ```json
 {
-  "languages": ["JavaScript", "TypeScript", "Python"],
+  "languages": ["JavaScript", "TypeScript", "Python", "React", "C", "C++"],
   "frontend": ["React", "Next.js", "Tailwind CSS"],
   "backend": ["python", "Django & Django rest framework"],
   "databases": ["sqlite3", "PostgreSQL"],
