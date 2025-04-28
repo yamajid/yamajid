@@ -26,10 +26,9 @@ Software developer passionate about creating innovative solutions. I enjoy build
 
 ## 📈 Latest Projects
 
-### [Cycle Safe](https://github.com/yamajid/cycle_safe)
-- Real-time cycle tracking application
+### [Chat App](https://github.com/yamajid/Chat_app)
+- Real-time Chat application
 - Built with React, TypeScript, Tailwind CSS for frontend and Django rest framework for backend
-- Features route optimization and safety features
 
 
 
