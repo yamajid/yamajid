@@ -14,7 +14,7 @@ Software developer passionate about creating innovative solutions. I enjoy build
 ```json
 {
   "languages": ["JavaScript", "TypeScript", "Python", "C", "C++"],
-  "frontend": ["React", "Next.js", "Tailwind CSS"],
+  "frontend": ["React", "Tailwind CSS"],
   "backend": ["python", "Django & Django rest framework"],
   "databases": ["sqlite3", "PostgreSQL"],
   "tools": ["Git", "Docker", "Docker Compose", "VS Code"]
