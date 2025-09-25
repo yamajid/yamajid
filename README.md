@@ -15,7 +15,7 @@ Software developer passionate about creating innovative solutions. I enjoy build
 {
   "languages": ["JavaScript", "TypeScript", "Python", "C", "C++"],
   "frontend": ["React", "Vite","Tailwind CSS"],
-  "backend": ["python", "Django & Django rest framework"],
+  "backend": ["python", "Django & Django rest framework", "C++"],
   "databases": ["sqlite3", "PostgreSQL"],
   "tools": ["Git", "jira"]
 }
