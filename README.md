@@ -3,7 +3,7 @@
 </div>
 
 ## 👨‍💻 About Me
-Software developer passionate about creating innovative solutions. I enjoy building applications that make a difference.
+Full stack | Software enginnering student passionate about creating innovative solutions. I enjoy building applications that make a difference.
 
 - 🔭 Currently working on improving my full-stack development skills
 - 🌱 Learning new technologies and best practices
