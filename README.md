@@ -28,17 +28,6 @@ Aug 2025 – Dec 2025 · Remote
 - Implemented a low‑latency Go backend integrating with a trading platform via asynchronous TCP.  
 - Employed goroutine concurrency, efficient session lifecycle management, and event‑driven patterns to process real‑time market data reliably.
 
-## 🚀 Selected Projects
-- **Chat App** — Real‑time chat platform (React + TypeScript frontend, Django + Channels backend, Docker).  
-  https://github.com/yamajid/Chat_app
-- **Inception** — Dockerized multi-service infra with NGINX, MariaDB, and WordPress (deployment & networking).  
-  https://github.com/yamajid/Inception
-- **IRC Server (ft_irc)** — TCP/IP IRC server in C++98 with non‑blocking sockets and channel management.  
-  https://github.com/yamajid/ft_irc
-- **Minishell** — Unix-like shell in C: pipes, redirections, signal handling, and process management.  
-  https://github.com/yamajid/minishell
-- **authentication_with_DRF** — Django REST Framework authentication patterns and examples.  
-  https://github.com/yamajid/authentication_with_DRF
 
 ## 🛠️ Technical Skills
 - Languages: Python · JavaScript · TypeScript · C · C++ · Go · MQL5  
