@@ -1,53 +1,72 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+yamajid" alt="Typing SVG" />
-</div>
-
-## 👨‍💻 About Me
-Software enginnering student passionate about creating innovative solutions. I enjoy building applications that make a difference.
-
-- 🔭 Currently working on improving my full-stack development skills
-- 🌱 Learning new technologies and best practices
-- 💬 Ask me about web development and software architecture
-- ⚡ Fun fact: The first computer "bug" was an actual bug
-
-## 🛠️ Tech Stack
-```json
-{
-  "languages": ["JavaScript", "TypeScript", "Python", "C", "C++"],
-  "frontend": ["React", "Vite","Tailwind CSS"],
-  "backend": ["python", "Django & Django rest framework", "C++"],
-  "databases": ["sqlite3", "PostgreSQL"],
-  "tools": ["Git", "jira"]
-}
-```
-
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yamajid/)
-
-## 📈 Latest Projects
-
-### [Chat App](https://github.com/yamajid/Chat_app)
-- Real-time Chat application
-- Built with React, TypeScript, Tailwind CSS for frontend and Django rest framework for backend
-
-
-
-## 📫 How to Reach Me
-- 📧 Email: yamajid13@outlook.com
-
-## 🎯 Goals for 2025
-- [ ] Master TypeScript and Django to be a full stack developer
-- [ ] Contribute to open source projects
-- [ ] Build and launch innovative applications
-- [ ] Improve documentation skills
-
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yamajid&color=blueviolet" alt="Profile views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Younes+%28yamajid%29;Full-Stack+Engineer+%7C+Real-Time+Systems" alt="Typing SVG" />
+  <p>
+    <a href="https://github.com/yamajid"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=yamajid&color=blueviolet"></a>
+    <a href="https://github.com/yamajid?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/Repos-31-blue?style=flat-square"></a>
+    <a href="https://github.com/yamajid"><img alt="Followers" src="https://img.shields.io/github/followers/yamajid?label=Followers&style=flat-square"></a>
+  </p>
 </div>
 
 ---
 
+## 👋 Summary
+I am a Software Engineering student and Full‑Stack Developer with hands‑on experience building production-ready applications end‑to‑end — from design and APIs to realtime features and deployment. I deliver reliable, scalable, and maintainable software and enjoy learning new technologies and improving engineering practices.
+
+## 🎓 Education
+**42 The-Network — Software Engineering Program**  
+Khouribga, Morocco · Sep 2022 – Jan 2025
+
+## 💼 Experience
+**Freelance — Full‑Stack Developer (Django / React, TypeScript)**  
+Mar 2025 – Jul 2025 · On-site  
+- Designed and implemented a full‑stack web platform with Django (API + Channels) and React (TypeScript).  
+- Built realtime features (WebSockets) for instant messaging, user profiles and activity tracking.  
+- Dockerized the stack with NGINX, PostgreSQL, and Redis; set up CI/CD and secure service isolation to ensure scalability and maintainability.
+
+**Lotus Capital — Backend Developer (Go / MQL5, Internship)**  
+Aug 2025 – Dec 2025 · Remote  
+- Implemented a low‑latency Go backend integrating with a trading platform via asynchronous TCP.  
+- Employed goroutine concurrency, efficient session lifecycle management, and event‑driven patterns to process real‑time market data reliably.
+
+## 🚀 Selected Projects
+- **Chat App** — Real‑time chat platform (React + TypeScript frontend, Django + Channels backend, Docker).  
+  https://github.com/yamajid/Chat_app
+- **Inception** — Dockerized multi-service infra with NGINX, MariaDB, and WordPress (deployment & networking).  
+  https://github.com/yamajid/Inception
+- **IRC Server (ft_irc)** — TCP/IP IRC server in C++98 with non‑blocking sockets and channel management.  
+  https://github.com/yamajid/ft_irc
+- **Minishell** — Unix-like shell in C: pipes, redirections, signal handling, and process management.  
+  https://github.com/yamajid/minishell
+- **authentication_with_DRF** — Django REST Framework authentication patterns and examples.  
+  https://github.com/yamajid/authentication_with_DRF
+
+## 🛠️ Technical Skills
+- Languages: Python · JavaScript · TypeScript · C · C++ · Go · MQL5  
+- Backend: Django · Django REST Framework · Django Channels · Go · TCP/IP · WebSockets  
+- Frontend: React · Vite · Tailwind CSS · Framer Motion  
+- Databases & Infra: PostgreSQL · MySQL/MariaDB · Redis · Docker · Docker Compose · NGINX  
+- Tools & Patterns: CI/CD · Containers · REST APIs · Message queues · RabbitMQ · System programming (sockets) · Testing & automation
+
+## 🌍 Languages
+- Arabic (native) · French (conversational) · English (conversational)
+
+## ✅ What I Deliver
+- Production‑ready features: reliable APIs, realtime communication, and resilient deployments.  
+- Clean architecture, automated workflows, and secure defaults.  
+- Clear documentation and maintainable codebases that make collaboration easy.
+
+## 📫 Contact & Links
+- Email: yamajid13@outlook.com  
+- LinkedIn: https://www.linkedin.com/in/yamajid/  
+- Portfolio: https://portfolio-lw8u.vercel.app/
+
+---
+
 <div align="center">
-  Last updated: 2025-03-27 14:02:50 UTC
+  <img src="https://github-readme-stats.vercel.app/api?username=yamajid&show_icons=true&theme=radical&count_private=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamajid&layout=compact&theme=radical" alt="Top languages" />
 </div>
+
+---
+
+_Last updated: 2026-02-20 UTC_
