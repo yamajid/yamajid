@@ -24,7 +24,7 @@ Mar 2025 – Jul 2025 · On-site
 - Dockerized the stack with NGINX, PostgreSQL, and Redis; set up CI/CD and secure service isolation to ensure scalability and maintainability.
 
 **Lotus Capital — Backend Developer (Go / MQL5, Internship)**  
-Aug 2025 – Dec 2025 · Remote  
+Aug 2025 – Jan 2026 · Remote  
 - Implemented a low‑latency Go backend integrating with a trading platform via asynchronous TCP.  
 - Employed goroutine concurrency, efficient session lifecycle management, and event‑driven patterns to process real‑time market data reliably.
 
