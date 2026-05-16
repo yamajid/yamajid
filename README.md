@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Younes+%28yamajid%29;Full-Stack+Developer+%7C+Real-Time+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Younes+%28yamajid%29;Full-Stack+Developer+%7C+Software+Engineering+Student" alt="Typing SVG" />
   <p>
     <a href="https://github.com/yamajid"><img alt="Profile views" src="https://komarev.com/ghpvc/?username=yamajid&color=blueviolet"></a>
     <a href="https://github.com/yamajid?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/Repos-31-blue?style=flat-square"></a>
