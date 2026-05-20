@@ -18,7 +18,7 @@ Khouribga, Morocco · Sep 2022 – Jan 2025
 
 ## 💼 Experience
 **Freelance — Full‑Stack Developer (Django / React, TypeScript)**  
-Mar 2026 – present · Remote  
+Feb 2026 – present · Remote  
 - Designed and implemented a full‑stack web platform with Django (API + Channels) and React (TypeScript).  
 - Built realtime features (WebSockets) for instant messaging, user profiles and activity tracking.  
 - Dockerized the stack with NGINX, PostgreSQL, and Redis; set up CI/CD and secure service isolation to ensure scalability and maintainability.
