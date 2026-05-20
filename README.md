@@ -10,7 +10,7 @@
 ---
 
 ## 👋 Summary
-I am a Software Engineering student and Full‑Stack Developer with hands‑on experience building production-ready applications end‑to‑end — from design and APIs to realtime features and deployment. I deliver reliable, scalable, and maintainable software and enjoy learning new technologies and improving engineering practices.
+I am a  Full‑Stack Developer and Software Engineering student with hands‑on experience building production-ready applications end‑to‑end — from design and APIs to realtime features and deployment. I deliver reliable, scalable, and maintainable software and enjoy learning new technologies and improving engineering practices.
 
 ## 🎓 Education
 **42 The-Network — Software Engineering Program**  
@@ -18,7 +18,7 @@ Khouribga, Morocco · Sep 2022 – Jan 2025
 
 ## 💼 Experience
 **Freelance — Full‑Stack Developer (Django / React, TypeScript)**  
-Mar 2025 – Jul 2025 · On-site  
+Mar 2026 – present · Remote  
 - Designed and implemented a full‑stack web platform with Django (API + Channels) and React (TypeScript).  
 - Built realtime features (WebSockets) for instant messaging, user profiles and activity tracking.  
 - Dockerized the stack with NGINX, PostgreSQL, and Redis; set up CI/CD and secure service isolation to ensure scalability and maintainability.
